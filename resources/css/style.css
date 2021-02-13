@@ -15,6 +15,12 @@ h2 {
   font-weight: 300;
 }
 
+h3 {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
 a {
   display: block;
   color: aquamarine;
